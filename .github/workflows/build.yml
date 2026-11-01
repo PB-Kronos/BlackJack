@@ -8,7 +8,7 @@ on:
     ## put your main branch name under "branches"
     #branches: 
     #  - master 
-  pull_request:
+  workflow_dispatch:
   schedule: 
     # do a build every day
     - cron: "1 1 * * *"

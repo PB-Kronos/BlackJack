@@ -1,4 +1,4 @@
-# Blackjack — On-Device Testing Checklist
+ # Blackjack — On-Device Testing Checklist
 
 Use this checklist when testing the app on a Flipper Zero (firmware release or RC). Test with **latest build** (`ufbt` → `dist/blackjack.fap` or `ufbt launch`).
 
